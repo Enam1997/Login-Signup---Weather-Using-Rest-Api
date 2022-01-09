@@ -14,3 +14,10 @@ o3iLcv1r7P9IX3s6KC-x7jV194dXcZxWnnxIqKL-vQcNAEZrM15cbYaAtt4EALw_wcB
 - Weather Data Screen
 - Map Screen For Chose Location
 
+
+# Screens
+![1](https://user-images.githubusercontent.com/89854906/148673234-e774cdf6-a42a-4cfc-b8cb-eaa22587e04a.png)
+![2](https://user-images.githubusercontent.com/89854906/148673236-9073e299-b3bc-4050-9d0f-b743a8059570.png)
+![3](https://user-images.githubusercontent.com/89854906/148673228-15be4c4b-ed70-43bf-a9b2-059a6a56cf4e.png)
+![4](https://user-images.githubusercontent.com/89854906/148673230-9841f70e-cef7-406a-ae05-b6e2a5bfa0f6.png)
+![5](https://user-images.githubusercontent.com/89854906/148673233-8e4cf5ea-cea8-42ca-b2b9-1a31ae86f5d7.png)
